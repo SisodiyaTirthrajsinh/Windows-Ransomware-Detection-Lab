@@ -1,0 +1,501 @@
+timestamp,EventID,user,process_name,target_file,description
+2025-08-01T00:00:00,4663,tjones,powershell.exe,/else/first/anything/near..docx,Normal operation
+2025-08-01T00:00:30,4634,cbuckley,outlook.exe,/word/sort/recently/force..txt,Normal operation
+2025-08-01T00:01:00,4634,larsenjamie,explorer.exe,/stage/list/one/break..docx,Normal operation
+2025-08-01T00:01:30,4663,aarongentry,chrome.exe,/natural/top/memory/rise..pdf,Normal operation
+2025-08-01T00:02:00,4634,xmorse,chrome.exe,/wall/treat/available/statement..docx,Normal operation
+2025-08-01T00:02:30,11,ashley35,explorer.exe,/mind/different/think/even..txt,Normal operation
+2025-08-01T00:03:00,4663,pmahoney,chrome.exe,/result/hand/purpose/table..docx,Normal operation
+2025-08-01T00:03:30,4634,gklein,powershell.exe,/along/now/some/plan..docx,Normal operation
+2025-08-01T00:04:00,4634,herreracatherine,powershell.exe,/free/anything/her/wife..pdf,Normal operation
+2025-08-01T00:04:30,11,charles86,powershell.exe,/chance/case/employee/tend..docx,Normal operation
+2025-08-01T00:05:00,11,wdominguez,powershell.exe,/dream/red/billion/so..pdf,Normal operation
+2025-08-01T00:05:30,4663,lydiahopkins,chrome.exe,/group/teacher/draw/structure..pdf,Normal operation
+2025-08-01T00:06:00,4624,smithdaniel,explorer.exe,/eight/number/poor/institution..pdf,Normal operation
+2025-08-01T00:06:30,4624,penabrandon,explorer.exe,/compare/which/per/development..pdf,Normal operation
+2025-08-01T00:07:00,11,youngkeith,outlook.exe,/station/realize/space/late..txt,Normal operation
+2025-08-01T00:07:30,4663,davidmartin,chrome.exe,/leader/pick/argue/party..pdf,Normal operation
+2025-08-01T00:08:00,4624,codyowens,powershell.exe,/face/enjoy/billion/must..docx,Normal operation
+2025-08-01T00:08:30,11,yoderjacqueline,powershell.exe,/doctor/good/model/technology..docx,Normal operation
+2025-08-01T00:09:00,4624,potterkyle,explorer.exe,/next/budget/fill/peace..pdf,Normal operation
+2025-08-01T00:09:30,11,donovanjesse,chrome.exe,/from/entire/shake/beyond..txt,Normal operation
+2025-08-01T00:10:00,4624,bhurst,powershell.exe,/husband/look/player/several..pdf,Normal operation
+2025-08-01T00:10:30,4663,bdelacruz,explorer.exe,/seem/more/but/move..pdf,Normal operation
+2025-08-01T00:11:00,4634,nsanford,chrome.exe,/agreement/model/key/assume..pdf,Normal operation
+2025-08-01T00:11:30,4624,lhale,chrome.exe,/somebody/including/behind/west..docx,Normal operation
+2025-08-01T00:12:00,4634,rodriguezcody,outlook.exe,/court/nothing/morning/a..pdf,Normal operation
+2025-08-01T00:12:30,4634,kathywilliams,explorer.exe,/direction/Mrs/population/office..txt,Normal operation
+2025-08-01T00:13:00,4624,jonesmichael,outlook.exe,/participant/forget/first/similar..txt,Normal operation
+2025-08-01T00:13:30,4624,bnichols,explorer.exe,/hospital/feeling/add/it..txt,Normal operation
+2025-08-01T00:14:00,4624,zluna,powershell.exe,/wear/next/performance/quickly..txt,Normal operation
+2025-08-01T00:14:30,4624,thomascarter,chrome.exe,/return/window/consider/a..docx,Normal operation
+2025-08-01T00:15:00,11,nsanchez,explorer.exe,/market/eye/still/nation..pdf,Normal operation
+2025-08-01T00:15:30,4634,williamowen,chrome.exe,/benefit/professor/since/let..docx,Normal operation
+2025-08-01T00:16:00,4634,chrismartin,outlook.exe,/second/environment/culture/attorney..pdf,Normal operation
+2025-08-01T00:16:30,11,jgomez,chrome.exe,/available/save/environmental/skill..pdf,Normal operation
+2025-08-01T00:17:00,11,ffisher,chrome.exe,/factor/office/movement/but..txt,Normal operation
+2025-08-01T00:17:30,11,michaelleon,powershell.exe,/popular/avoid/natural/must..pdf,Normal operation
+2025-08-01T00:18:00,4663,jessicajohnson,outlook.exe,/myself/reduce/law/pretty..txt,Normal operation
+2025-08-01T00:18:30,11,kellyponce,outlook.exe,/school/television/of/political..docx,Normal operation
+2025-08-01T00:19:00,4624,riddletracey,explorer.exe,/decide/drop/choice/apply..pdf,Normal operation
+2025-08-01T00:19:30,4663,gabrielle33,chrome.exe,/arm/gun/fire/teacher..docx,Normal operation
+2025-08-01T00:20:00,4634,jose71,explorer.exe,/live/institution/admit/onto..txt,Normal operation
+2025-08-01T00:20:30,4663,stanley23,chrome.exe,/herself/radio/movie/trip..txt,Normal operation
+2025-08-01T00:21:00,4663,josephmcdonald,outlook.exe,/in/yourself/forward/without..txt,Normal operation
+2025-08-01T00:21:30,11,susanhill,powershell.exe,/box/usually/work/many..docx,Normal operation
+2025-08-01T00:22:00,11,aaron11,chrome.exe,/bad/only/war/down..pdf,Normal operation
+2025-08-01T00:22:30,4663,gonzalezmeghan,outlook.exe,/economy/later/conference/himself..txt,Normal operation
+2025-08-01T00:23:00,4624,cabreralisa,explorer.exe,/expect/avoid/identify/over..txt,Normal operation
+2025-08-01T00:23:30,11,saunderscory,explorer.exe,/than/adult/message/contain..txt,Normal operation
+2025-08-01T00:24:00,4624,pattoncatherine,chrome.exe,/think/market/reality/really..pdf,Normal operation
+2025-08-01T00:24:30,11,eugenepetersen,outlook.exe,/like/century/agree/who..docx,Normal operation
+2025-08-01T00:25:00,4634,campbellpatrick,chrome.exe,/start/student/sister/more..docx,Normal operation
+2025-08-01T00:25:30,4663,knightmichael,explorer.exe,/he/simple/the/heavy..txt,Normal operation
+2025-08-01T00:26:00,4663,jimmyhurley,explorer.exe,/school/TV/wear/behind..txt,Normal operation
+2025-08-01T00:26:30,4663,npoole,outlook.exe,/room/approach/indeed/subject..txt,Normal operation
+2025-08-01T00:27:00,4624,sharon92,powershell.exe,/ago/foreign/bank/president..txt,Normal operation
+2025-08-01T00:27:30,4634,mspencer,powershell.exe,/or/catch/challenge/place..txt,Normal operation
+2025-08-01T00:28:00,4663,kjohnson,powershell.exe,/benefit/soldier/south/book..pdf,Normal operation
+2025-08-01T00:28:30,4624,manderson,powershell.exe,/want/public/leg/anyone..pdf,Normal operation
+2025-08-01T00:29:00,4624,umoore,chrome.exe,/beautiful/possible/hundred/participant..txt,Normal operation
+2025-08-01T00:29:30,4624,nicolemiller,explorer.exe,/experience/this/example/door..docx,Normal operation
+2025-08-01T00:30:00,4663,michael15,outlook.exe,/kind/or/more/article..docx,Normal operation
+2025-08-01T00:30:30,4634,emilyhardy,chrome.exe,/security/baby/born/certainly..docx,Normal operation
+2025-08-01T00:31:00,11,pknox,powershell.exe,/radio/real/mouth/sort..pdf,Normal operation
+2025-08-01T00:31:30,4663,juliehanson,explorer.exe,/wear/factor/sort/yes..txt,Normal operation
+2025-08-01T00:32:00,11,annarussell,outlook.exe,/against/often/allow/reason..pdf,Normal operation
+2025-08-01T00:32:30,4634,baileyedward,outlook.exe,/nothing/she/similar/low..txt,Normal operation
+2025-08-01T00:33:00,11,dodsonamber,outlook.exe,/candidate/challenge/price/up..pdf,Normal operation
+2025-08-01T00:33:30,4663,tedwards,outlook.exe,/phone/first/religious/dark..txt,Normal operation
+2025-08-01T00:34:00,11,erikhorton,chrome.exe,/left/guy/bed/case..docx,Normal operation
+2025-08-01T00:34:30,11,william24,powershell.exe,/leader/from/goal/energy..txt,Normal operation
+2025-08-01T00:35:00,4663,maliktorres,explorer.exe,/and/provide/listen/life..pdf,Normal operation
+2025-08-01T00:35:30,4634,haileyramirez,powershell.exe,/interest/show/us/plant..docx,Normal operation
+2025-08-01T00:36:00,4663,christina78,outlook.exe,/us/behind/message/dark..txt,Normal operation
+2025-08-01T00:36:30,4624,bowmanjennifer,outlook.exe,/huge/very/best/democratic..pdf,Normal operation
+2025-08-01T00:37:00,4663,bradley25,powershell.exe,/possible/heavy/represent/significant..pdf,Normal operation
+2025-08-01T00:37:30,4634,perrybrian,outlook.exe,/reach/price/professional/name..txt,Normal operation
+2025-08-01T00:38:00,11,david67,chrome.exe,/know/executive/yeah/outside..txt,Normal operation
+2025-08-01T00:38:30,4624,raymondmiles,outlook.exe,/whom/commercial/film/though..pdf,Normal operation
+2025-08-01T00:39:00,4634,browe,chrome.exe,/up/able/feeling/situation..pdf,Normal operation
+2025-08-01T00:39:30,11,gcarter,powershell.exe,/strong/over/or/hit..docx,Normal operation
+2025-08-01T00:40:00,4634,lawrencehill,explorer.exe,/her/close/race/girl..txt,Normal operation
+2025-08-01T00:40:30,4634,loweshelly,powershell.exe,/character/back/several/good..pdf,Normal operation
+2025-08-01T00:41:00,4624,mooncarly,explorer.exe,/this/source/simple/conference..pdf,Normal operation
+2025-08-01T00:41:30,4634,amanda64,powershell.exe,/finally/around/set/anyone..pdf,Normal operation
+2025-08-01T00:42:00,11,valerie74,outlook.exe,/treat/development/player/by..docx,Normal operation
+2025-08-01T00:42:30,11,yday,chrome.exe,/on/know/could/attack..docx,Normal operation
+2025-08-01T00:43:00,4634,danielle32,powershell.exe,/ask/including/follow/voice..docx,Normal operation
+2025-08-01T00:43:30,4663,alexkoch,chrome.exe,/expect/or/political/career..pdf,Normal operation
+2025-08-01T00:44:00,4624,barbaraparker,chrome.exe,/national/executive/defense/sell..pdf,Normal operation
+2025-08-01T00:44:30,11,ymoore,outlook.exe,/party/on/experience/child..txt,Normal operation
+2025-08-01T00:45:00,4663,ysullivan,powershell.exe,/hot/tree/tell/officer..txt,Normal operation
+2025-08-01T00:45:30,4634,robertmullins,explorer.exe,/firm/accept/mission/election..docx,Normal operation
+2025-08-01T00:46:00,4634,joseramirez,explorer.exe,/without/course/what/son..txt,Normal operation
+2025-08-01T00:46:30,4624,ecoleman,explorer.exe,/lose/body/worry/hundred..txt,Normal operation
+2025-08-01T00:47:00,4624,ronaldortiz,outlook.exe,/edge/table/off/too..txt,Normal operation
+2025-08-01T00:47:30,4624,morrismichelle,powershell.exe,/visit/position/practice/notice..docx,Normal operation
+2025-08-01T00:48:00,4624,itaylor,outlook.exe,/world/before/must/and..pdf,Normal operation
+2025-08-01T00:48:30,4624,anthony50,powershell.exe,/through/enough/agency/same..pdf,Normal operation
+2025-08-01T00:49:00,11,gwilliams,chrome.exe,/clearly/successful/father/community..pdf,Normal operation
+2025-08-01T00:49:30,4634,penajustin,outlook.exe,/pass/close/particularly/whom..docx,Normal operation
+2025-08-01T00:50:00,11,johnsonjessica,powershell.exe,/discover/address/decide/during..txt,Normal operation
+2025-08-01T00:50:30,4624,daniel51,outlook.exe,/must/radio/ball/even..docx,Normal operation
+2025-08-01T00:51:00,11,steven14,explorer.exe,/general/control/water/woman..docx,Normal operation
+2025-08-01T00:51:30,4663,danielwilson,powershell.exe,/remember/mean/decade/sea..pdf,Normal operation
+2025-08-01T00:52:00,4624,hillamber,powershell.exe,/describe/tonight/age/production..docx,Normal operation
+2025-08-01T00:52:30,4634,ufranklin,explorer.exe,/pull/arm/against/particularly..docx,Normal operation
+2025-08-01T00:53:00,4624,jessedickerson,chrome.exe,/election/smile/new/without..txt,Normal operation
+2025-08-01T00:53:30,11,tbutler,explorer.exe,/economic/serve/difference/north..txt,Normal operation
+2025-08-01T00:54:00,4634,ravencabrera,powershell.exe,/thing/loss/born/painting..txt,Normal operation
+2025-08-01T00:54:30,11,jeff27,chrome.exe,/environment/hope/institution/scene..docx,Normal operation
+2025-08-01T00:55:00,4634,qhoward,powershell.exe,/situation/already/black/government..pdf,Normal operation
+2025-08-01T00:55:30,11,ylewis,explorer.exe,/choose/research/yourself/six..txt,Normal operation
+2025-08-01T00:56:00,11,martin88,explorer.exe,/go/century/everything/trial..txt,Normal operation
+2025-08-01T00:56:30,4624,cody39,chrome.exe,/dark/series/great/article..pdf,Normal operation
+2025-08-01T00:57:00,4663,rwilkins,chrome.exe,/lead/world/scene/window..txt,Normal operation
+2025-08-01T00:57:30,4663,danielbarton,outlook.exe,/behind/respond/worker/beyond..pdf,Normal operation
+2025-08-01T00:58:00,4634,ukelley,explorer.exe,/hair/above/conference/add..txt,Normal operation
+2025-08-01T00:58:30,4634,christophersanchez,outlook.exe,/black/democratic/class/international..txt,Normal operation
+2025-08-01T00:59:00,4634,collinsdouglas,chrome.exe,/lawyer/rest/another/right..txt,Normal operation
+2025-08-01T00:59:30,4624,christopherbrooks,chrome.exe,/sing/them/among/build..docx,Normal operation
+2025-08-01T01:00:00,4624,saguilar,outlook.exe,/opportunity/from/black/second..txt,Normal operation
+2025-08-01T01:00:30,4634,robinsonjanet,outlook.exe,/ask/up/perhaps/speech..txt,Normal operation
+2025-08-01T01:01:00,11,radams,chrome.exe,/data/cup/detail/decade..pdf,Normal operation
+2025-08-01T01:01:30,11,clarkadam,powershell.exe,/herself/special/us/fill..docx,Normal operation
+2025-08-01T01:02:00,11,amanda53,explorer.exe,/unit/international/animal/across..pdf,Normal operation
+2025-08-01T01:02:30,4663,madelineadams,powershell.exe,/do/well/total/buy..docx,Normal operation
+2025-08-01T01:03:00,4663,davisrichard,explorer.exe,/lead/read/he/read..txt,Normal operation
+2025-08-01T01:03:30,4634,jakegarcia,explorer.exe,/network/she/sometimes/avoid..pdf,Normal operation
+2025-08-01T01:04:00,4663,delacruztravis,powershell.exe,/defense/listen/water/medical..docx,Normal operation
+2025-08-01T01:04:30,4624,david28,powershell.exe,/cup/detail/speech/under..pdf,Normal operation
+2025-08-01T01:05:00,4624,maxwellzachary,outlook.exe,/price/PM/Democrat/represent..txt,Normal operation
+2025-08-01T01:05:30,4634,fischergarrett,explorer.exe,/station/bad/into/behavior..txt,Normal operation
+2025-08-01T01:06:00,11,jsingh,powershell.exe,/center/I/your/piece..docx,Normal operation
+2025-08-01T01:06:30,4634,gutierrezsharon,explorer.exe,/choose/us/threat/management..docx,Normal operation
+2025-08-01T01:07:00,4624,nelsondawn,explorer.exe,/western/couple/dream/one..pdf,Normal operation
+2025-08-01T01:07:30,4634,pfoster,powershell.exe,/lot/data/resource/it..pdf,Normal operation
+2025-08-01T01:08:00,4634,sonia83,powershell.exe,/growth/agent/child/matter..docx,Normal operation
+2025-08-01T01:08:30,11,banderson,chrome.exe,/political/way/son/lead..txt,Normal operation
+2025-08-01T01:09:00,4624,esteschristopher,chrome.exe,/hit/set/suggest/drive..txt,Normal operation
+2025-08-01T01:09:30,4624,alyssathompson,chrome.exe,/social/discuss/tax/ready..txt,Normal operation
+2025-08-01T01:10:00,4624,meagan30,explorer.exe,/thousand/still/whatever/answer..docx,Normal operation
+2025-08-01T01:10:30,4624,gonzalezcourtney,powershell.exe,/learn/dream/look/health..docx,Normal operation
+2025-08-01T01:11:00,4624,nealkatrina,outlook.exe,/cell/property/budget/pull..pdf,Normal operation
+2025-08-01T01:11:30,11,ccochran,chrome.exe,/approach/item/foreign/newspaper..pdf,Normal operation
+2025-08-01T01:12:00,11,apadilla,outlook.exe,/very/member/phone/page..txt,Normal operation
+2025-08-01T01:12:30,4624,scott01,outlook.exe,/million/guess/would/social..txt,Normal operation
+2025-08-01T01:13:00,4624,virginiahampton,powershell.exe,/while/along/dog/often..txt,Normal operation
+2025-08-01T01:13:30,4624,angelamullins,chrome.exe,/list/laugh/time/since..docx,Normal operation
+2025-08-01T01:14:00,4663,nicole24,powershell.exe,/dinner/prevent/region/might..pdf,Normal operation
+2025-08-01T01:14:30,4663,stephenedwards,outlook.exe,/leg/similar/rock/last..docx,Normal operation
+2025-08-01T01:15:00,4624,hmoore,powershell.exe,/final/Mrs/thank/reflect..docx,Normal operation
+2025-08-01T01:15:30,11,michaeljensen,chrome.exe,/tree/budget/within/environmental..docx,Normal operation
+2025-08-01T01:16:00,11,zthomas,outlook.exe,/try/discuss/nature/question..docx,Normal operation
+2025-08-01T01:16:30,4663,hernandezbrandon,explorer.exe,/live/set/much/three..txt,Normal operation
+2025-08-01T01:17:00,4624,lisagray,powershell.exe,/sense/least/across/situation..pdf,Normal operation
+2025-08-01T01:17:30,11,pmendoza,explorer.exe,/sense/cover/cultural/here..docx,Normal operation
+2025-08-01T01:18:00,4634,bethany65,outlook.exe,/young/sell/look/pattern..docx,Normal operation
+2025-08-01T01:18:30,4663,zcarrillo,chrome.exe,/team/manager/board/baby..docx,Normal operation
+2025-08-01T01:19:00,4634,candice32,outlook.exe,/economy/man/half/prevent..docx,Normal operation
+2025-08-01T01:19:30,4624,michael69,powershell.exe,/nation/television/after/threat..txt,Normal operation
+2025-08-01T01:20:00,4663,brookefisher,explorer.exe,/born/artist/receive/cell..pdf,Normal operation
+2025-08-01T01:20:30,11,moralesdiane,chrome.exe,/another/summer/recognize/order..txt,Normal operation
+2025-08-01T01:21:00,4624,tamara50,outlook.exe,/head/improve/keep/he..pdf,Normal operation
+2025-08-01T01:21:30,4663,codymunoz,outlook.exe,/down/here/Democrat/area..pdf,Normal operation
+2025-08-01T01:22:00,4663,elizabeth17,outlook.exe,/star/tend/industry/learn..pdf,Normal operation
+2025-08-01T01:22:30,4624,ricebetty,chrome.exe,/head/and/occur/arrive..txt,Normal operation
+2025-08-01T01:23:00,4624,smithtara,outlook.exe,/now/very/Republican/develop..pdf,Normal operation
+2025-08-01T01:23:30,4663,montgomerycharles,powershell.exe,/official/value/laugh/provide..pdf,Normal operation
+2025-08-01T01:24:00,4663,vincentlee,powershell.exe,/next/north/investment/daughter..pdf,Normal operation
+2025-08-01T01:24:30,4624,richard61,outlook.exe,/final/light/station/fall..pdf,Normal operation
+2025-08-01T01:25:00,4624,xcox,chrome.exe,/work/speak/eat/in..pdf,Normal operation
+2025-08-01T01:25:30,4663,gutierrezjacob,explorer.exe,/actually/alone/type/conference..txt,Normal operation
+2025-08-01T01:26:00,11,joshuabriggs,explorer.exe,/federal/organization/information/will..pdf,Normal operation
+2025-08-01T01:26:30,11,kennethharris,outlook.exe,/spring/so/so/without..txt,Normal operation
+2025-08-01T01:27:00,4634,xvelez,powershell.exe,/model/many/yard/election..txt,Normal operation
+2025-08-01T01:27:30,4663,brian97,explorer.exe,/window/his/after/participant..txt,Normal operation
+2025-08-01T01:28:00,4663,ttucker,outlook.exe,/rate/these/site/garden..txt,Normal operation
+2025-08-01T01:28:30,4634,rmitchell,outlook.exe,/represent/happy/cultural/follow..txt,Normal operation
+2025-08-01T01:29:00,11,christopherferguson,chrome.exe,/onto/then/ten/certainly..txt,Normal operation
+2025-08-01T01:29:30,4624,johnsonpaul,chrome.exe,/across/indeed/treat/see..docx,Normal operation
+2025-08-01T01:30:00,4663,jmccoy,chrome.exe,/first/him/culture/film..docx,Normal operation
+2025-08-01T01:30:30,4624,doyleregina,powershell.exe,/morning/number/by/just..docx,Normal operation
+2025-08-01T01:31:00,11,brandonestrada,explorer.exe,/factor/listen/want/generation..txt,Normal operation
+2025-08-01T01:31:30,4663,brittany71,outlook.exe,/Democrat/through/attention/well..txt,Normal operation
+2025-08-01T01:32:00,4634,debrasmith,outlook.exe,/money/two/ever/us..txt,Normal operation
+2025-08-01T01:32:30,4663,wclark,powershell.exe,/sure/church/cell/sit..txt,Normal operation
+2025-08-01T01:33:00,11,cschultz,outlook.exe,/tonight/other/deep/benefit..txt,Normal operation
+2025-08-01T01:33:30,11,owensjoshua,outlook.exe,/coach/worker/gas/late..pdf,Normal operation
+2025-08-01T01:34:00,4634,lucasthompson,powershell.exe,/society/main/similar/analysis..pdf,Normal operation
+2025-08-01T01:34:30,4634,petersjames,chrome.exe,/near/tough/fly/great..pdf,Normal operation
+2025-08-01T01:35:00,11,jmurphy,powershell.exe,/pressure/strong/worker/help..pdf,Normal operation
+2025-08-01T01:35:30,11,kochbrent,explorer.exe,/forward/describe/information/image..pdf,Normal operation
+2025-08-01T01:36:00,4624,prandolph,explorer.exe,/church/get/add/old..txt,Normal operation
+2025-08-01T01:36:30,11,xnewman,outlook.exe,/cover/institution/partner/many..pdf,Normal operation
+2025-08-01T01:37:00,4634,amberrichards,explorer.exe,/partner/south/appear/close..pdf,Normal operation
+2025-08-01T01:37:30,4634,austintrevor,outlook.exe,/base/also/second/before..docx,Normal operation
+2025-08-01T01:38:00,11,mcdonalddorothy,outlook.exe,/across/meeting/especially/must..docx,Normal operation
+2025-08-01T01:38:30,4634,hannah55,outlook.exe,/of/research/mention/black..txt,Normal operation
+2025-08-01T01:39:00,4663,travis41,explorer.exe,/person/how/piece/away..docx,Normal operation
+2025-08-01T01:39:30,4663,tonyawilson,powershell.exe,/write/factor/pass/person..pdf,Normal operation
+2025-08-01T01:40:00,4663,phillipduffy,chrome.exe,/beyond/spend/simple/remain..txt,Normal operation
+2025-08-01T01:40:30,11,matthew16,outlook.exe,/if/less/camera/fall..pdf,Normal operation
+2025-08-01T01:41:00,4663,autumn59,explorer.exe,/left/identify/open/only..docx,Normal operation
+2025-08-01T01:41:30,11,meyerandrew,explorer.exe,/social/state/at/task..docx,Normal operation
+2025-08-01T01:42:00,4663,lauracaldwell,explorer.exe,/break/a/real/room..docx,Normal operation
+2025-08-01T01:42:30,11,xanderson,powershell.exe,/tax/indeed/its/special..pdf,Normal operation
+2025-08-01T01:43:00,4663,yroy,outlook.exe,/write/follow/listen/wife..docx,Normal operation
+2025-08-01T01:43:30,4624,weberjohn,explorer.exe,/series/specific/ten/appear..pdf,Normal operation
+2025-08-01T01:44:00,11,fwhite,chrome.exe,/ready/oil/along/name..pdf,Normal operation
+2025-08-01T01:44:30,4634,mcbridemark,outlook.exe,/together/building/around/would..txt,Normal operation
+2025-08-01T01:45:00,4634,dianajordan,outlook.exe,/relationship/family/in/community..pdf,Normal operation
+2025-08-01T01:45:30,4624,bgreen,chrome.exe,/too/bill/new/all..pdf,Normal operation
+2025-08-01T01:46:00,4663,williamsmadison,outlook.exe,/project/quality/choice/under..pdf,Normal operation
+2025-08-01T01:46:30,4624,william11,explorer.exe,/film/point/can/eye..txt,Normal operation
+2025-08-01T01:47:00,4663,gordonsteven,explorer.exe,/peace/professor/deep/each..docx,Normal operation
+2025-08-01T01:47:30,4634,whitemark,outlook.exe,/thousand/choose/gun/win..pdf,Normal operation
+2025-08-01T01:48:00,4634,evelyn65,outlook.exe,/different/heart/realize/worry..pdf,Normal operation
+2025-08-01T01:48:30,4624,katietaylor,explorer.exe,/modern/just/understand/heavy..pdf,Normal operation
+2025-08-01T01:49:00,4663,ashley30,chrome.exe,/not/expert/animal/despite..pdf,Normal operation
+2025-08-01T01:49:30,4624,ehammond,chrome.exe,/chance/stop/watch/enjoy..txt,Normal operation
+2025-08-01T01:50:00,4624,quinneric,explorer.exe,/identify/main/open/exactly..txt,Normal operation
+2025-08-01T01:50:30,11,brianthomas,outlook.exe,/after/property/a/Republican..docx,Normal operation
+2025-08-01T01:51:00,4624,holly48,outlook.exe,/bar/me/sport/central..pdf,Normal operation
+2025-08-01T01:51:30,4624,stephanielee,explorer.exe,/law/soldier/while/learn..docx,Normal operation
+2025-08-01T01:52:00,4624,ian41,chrome.exe,/eye/me/each/form..docx,Normal operation
+2025-08-01T01:52:30,11,matthewmyers,outlook.exe,/start/anything/these/significant..pdf,Normal operation
+2025-08-01T01:53:00,4624,rojasandrea,outlook.exe,/believe/room/health/across..pdf,Normal operation
+2025-08-01T01:53:30,4634,racheljones,explorer.exe,/now/cup/visit/begin..pdf,Normal operation
+2025-08-01T01:54:00,11,jweber,chrome.exe,/small/student/whose/mother..pdf,Normal operation
+2025-08-01T01:54:30,4624,cruzdaniel,outlook.exe,/site/dinner/late/work..pdf,Normal operation
+2025-08-01T01:55:00,4624,zwise,explorer.exe,/drive/own/care/voice..docx,Normal operation
+2025-08-01T01:55:30,4624,rmartin,chrome.exe,/unit/often/window/represent..txt,Normal operation
+2025-08-01T01:56:00,4624,andersoncristian,chrome.exe,/morning/close/future/guy..docx,Normal operation
+2025-08-01T01:56:30,11,davismichael,powershell.exe,/film/teach/page/operation..txt,Normal operation
+2025-08-01T01:57:00,4663,burnskim,powershell.exe,/loss/center/begin/nor..txt,Normal operation
+2025-08-01T01:57:30,4634,cturner,explorer.exe,/group/sister/something/quite..pdf,Normal operation
+2025-08-01T01:58:00,4634,lauraandrews,powershell.exe,/argue/former/face/investment..pdf,Normal operation
+2025-08-01T01:58:30,11,deborah80,explorer.exe,/account/miss/laugh/today..docx,Normal operation
+2025-08-01T01:59:00,4624,rodriguezanne,outlook.exe,/just/police/itself/identify..txt,Normal operation
+2025-08-01T01:59:30,4624,williamsjennifer,powershell.exe,/its/public/final/that..pdf,Normal operation
+2025-08-01T02:00:00,4663,jefferycarter,explorer.exe,/recognize/support/meet/evidence..docx,Normal operation
+2025-08-01T02:00:30,4663,kgutierrez,explorer.exe,/front/various/care/care..txt,Normal operation
+2025-08-01T02:01:00,4624,knoxthomas,outlook.exe,/blood/move/environmental/hour..pdf,Normal operation
+2025-08-01T02:01:30,4663,davidhuerta,outlook.exe,/as/eight/international/plan..txt,Normal operation
+2025-08-01T02:02:00,4663,villanuevadavid,explorer.exe,/effect/city/follow/voice..txt,Normal operation
+2025-08-01T02:02:30,4624,zachary58,outlook.exe,/accept/charge/wish/arm..txt,Normal operation
+2025-08-01T02:03:00,4624,xavier97,powershell.exe,/miss/quite/call/prepare..docx,Normal operation
+2025-08-01T02:03:30,11,cyoung,powershell.exe,/expect/something/rule/detail..txt,Normal operation
+2025-08-01T02:04:00,4624,davidferguson,explorer.exe,/own/bag/whole/what..txt,Normal operation
+2025-08-01T02:04:30,4663,ksutton,chrome.exe,/man/offer/explain/sell..txt,Normal operation
+2025-08-01T02:05:00,4663,wcobb,chrome.exe,/business/far/summer/matter..txt,Normal operation
+2025-08-01T02:05:30,4624,joseph01,powershell.exe,/production/right/more/serious..txt,Normal operation
+2025-08-01T02:06:00,11,paul94,chrome.exe,/identify/rock/news/wonder..docx,Normal operation
+2025-08-01T02:06:30,4624,georgecoleman,chrome.exe,/work/mission/focus/about..docx,Normal operation
+2025-08-01T02:07:00,11,brownbilly,powershell.exe,/technology/cost/step/list..pdf,Normal operation
+2025-08-01T02:07:30,4634,shelby78,outlook.exe,/edge/whole/its/yourself..docx,Normal operation
+2025-08-01T02:08:00,4663,maciaskeith,explorer.exe,/benefit/rich/action/report..pdf,Normal operation
+2025-08-01T02:08:30,4634,juliamann,chrome.exe,/civil/pay/news/office..docx,Normal operation
+2025-08-01T02:09:00,4634,gary99,explorer.exe,/rock/able/room/western..pdf,Normal operation
+2025-08-01T02:09:30,4634,tpeterson,explorer.exe,/six/prevent/site/door..docx,Normal operation
+2025-08-01T02:10:00,4663,andrea17,chrome.exe,/collection/make/change/market..txt,Normal operation
+2025-08-01T02:10:30,11,christopherlamb,powershell.exe,/leader/how/early/ground..docx,Normal operation
+2025-08-01T02:11:00,11,ehill,explorer.exe,/once/focus/common/ground..pdf,Normal operation
+2025-08-01T02:11:30,4624,amber28,chrome.exe,/very/church/whole/arrive..docx,Normal operation
+2025-08-01T02:12:00,4663,matthewsmith,outlook.exe,/move/practice/pull/move..txt,Normal operation
+2025-08-01T02:12:30,4624,kyle24,outlook.exe,/bad/quite/include/often..pdf,Normal operation
+2025-08-01T02:13:00,4634,daniel49,explorer.exe,/beat/color/likely/rate..pdf,Normal operation
+2025-08-01T02:13:30,4624,daniel94,outlook.exe,/recent/quality/great/before..txt,Normal operation
+2025-08-01T02:14:00,4624,vegasharon,chrome.exe,/party/into/half/year..txt,Normal operation
+2025-08-01T02:14:30,4624,aoneill,chrome.exe,/of/different/project/wrong..pdf,Normal operation
+2025-08-01T02:15:00,4634,jamiewilson,explorer.exe,/choose/focus/with/pretty..docx,Normal operation
+2025-08-01T02:15:30,4634,melissajackson,chrome.exe,/draw/other/despite/natural..txt,Normal operation
+2025-08-01T02:16:00,4624,sandra03,chrome.exe,/result/ok/religious/stuff..pdf,Normal operation
+2025-08-01T02:16:30,4634,arianacortez,powershell.exe,/no/book/top/brother..docx,Normal operation
+2025-08-01T02:17:00,4634,mgriffin,powershell.exe,/exactly/someone/think/ten..txt,Normal operation
+2025-08-01T02:17:30,4624,afrazier,powershell.exe,/scene/audience/week/reveal..txt,Normal operation
+2025-08-01T02:18:00,4634,ihoward,outlook.exe,/science/write/dream/personal..pdf,Normal operation
+2025-08-01T02:18:30,4634,larachris,outlook.exe,/political/his/enjoy/agreement..pdf,Normal operation
+2025-08-01T02:19:00,11,awright,outlook.exe,/bank/under/something/adult..pdf,Normal operation
+2025-08-01T02:19:30,4634,phelpsshawn,explorer.exe,/impact/everyone/player/industry..pdf,Normal operation
+2025-08-01T02:20:00,4663,jeremy08,chrome.exe,/though/phone/model/pull..pdf,Normal operation
+2025-08-01T02:20:30,11,fhart,powershell.exe,/teacher/federal/throw/strategy..docx,Normal operation
+2025-08-01T02:21:00,4624,kimberlycameron,powershell.exe,/rise/trial/hold/anything..pdf,Normal operation
+2025-08-01T02:21:30,4624,raymond99,chrome.exe,/subject/serve/push/then..pdf,Normal operation
+2025-08-01T02:22:00,11,olee,explorer.exe,/very/save/response/respond..txt,Normal operation
+2025-08-01T02:22:30,11,michaelhutchinson,chrome.exe,/practice/people/film/meeting..txt,Normal operation
+2025-08-01T02:23:00,11,robin43,explorer.exe,/time/to/minute/you..docx,Normal operation
+2025-08-01T02:23:30,4663,christopher46,outlook.exe,/they/cell/woman/form..docx,Normal operation
+2025-08-01T02:24:00,4663,andrew00,outlook.exe,/health/past/action/sea..docx,Normal operation
+2025-08-01T02:24:30,4634,wsanchez,powershell.exe,/buy/certainly/government/physical..pdf,Normal operation
+2025-08-01T02:25:00,4624,ricecatherine,powershell.exe,/short/tend/pattern/must..txt,Normal operation
+2025-08-01T02:25:30,4634,amy99,outlook.exe,/worker/audience/contain/animal..txt,Normal operation
+2025-08-01T02:26:00,4663,mary19,outlook.exe,/order/ball/clear/even..txt,Normal operation
+2025-08-01T02:26:30,4663,brockwanda,powershell.exe,/old/produce/yeah/within..docx,Normal operation
+2025-08-01T02:27:00,11,cassandrabenjamin,chrome.exe,/list/behind/back/energy..docx,Normal operation
+2025-08-01T02:27:30,11,stephanie43,powershell.exe,/spring/book/standard/yeah..docx,Normal operation
+2025-08-01T02:28:00,4663,amccoy,chrome.exe,/old/modern/bill/response..pdf,Normal operation
+2025-08-01T02:28:30,4663,kaylarivera,outlook.exe,/old/throughout/data/beautiful..pdf,Normal operation
+2025-08-01T02:29:00,4663,zfox,explorer.exe,/particularly/suddenly/conference/build..pdf,Normal operation
+2025-08-01T02:29:30,4624,david95,chrome.exe,/lose/reach/talk/parent..docx,Normal operation
+2025-08-01T02:30:00,4663,watkinsdawn,powershell.exe,/future/one/both/stuff..txt,Normal operation
+2025-08-01T02:30:30,11,simpsonscott,chrome.exe,/find/main/add/million..pdf,Normal operation
+2025-08-01T02:31:00,4624,lmiller,chrome.exe,/single/some/paper/heart..docx,Normal operation
+2025-08-01T02:31:30,4663,tylerjesse,explorer.exe,/per/miss/often/break..docx,Normal operation
+2025-08-01T02:32:00,4663,josephjoshua,powershell.exe,/education/politics/then/owner..docx,Normal operation
+2025-08-01T02:32:30,4624,yknapp,chrome.exe,/drive/attention/data/similar..pdf,Normal operation
+2025-08-01T02:33:00,4624,morenojohn,powershell.exe,/forward/game/enough/eye..txt,Normal operation
+2025-08-01T02:33:30,4634,tammyharrison,chrome.exe,/door/crime/area/as..docx,Normal operation
+2025-08-01T02:34:00,11,davisdorothy,explorer.exe,/large/draw/decision/well..txt,Normal operation
+2025-08-01T02:34:30,4634,wilsontimothy,powershell.exe,/similar/air/drop/majority..pdf,Normal operation
+2025-08-01T02:35:00,11,flee,chrome.exe,/learn/staff/season/attention..docx,Normal operation
+2025-08-01T02:35:30,4624,carrie02,outlook.exe,/above/energy/rate/born..txt,Normal operation
+2025-08-01T02:36:00,4663,waltonrobert,explorer.exe,/local/environment/less/design..docx,Normal operation
+2025-08-01T02:36:30,4624,john30,outlook.exe,/society/customer/model/each..pdf,Normal operation
+2025-08-01T02:37:00,4624,byrdlaura,powershell.exe,/guess/close/everything/over..txt,Normal operation
+2025-08-01T02:37:30,4624,ajohnson,explorer.exe,/though/raise/nearly/wait..txt,Normal operation
+2025-08-01T02:38:00,4663,sabrinasmith,powershell.exe,/resource/whom/focus/parent..txt,Normal operation
+2025-08-01T02:38:30,11,zacharyflores,powershell.exe,/go/myself/rest/knowledge..txt,Normal operation
+2025-08-01T02:39:00,4624,otorres,powershell.exe,/long/economy/sit/yourself..txt,Normal operation
+2025-08-01T02:39:30,4663,perezholly,outlook.exe,/house/feeling/majority/answer..pdf,Normal operation
+2025-08-01T02:40:00,4663,michael06,explorer.exe,/would/simply/class/identify..pdf,Normal operation
+2025-08-01T02:40:30,4634,tylerlee,chrome.exe,/collection/particular/which/interest..pdf,Normal operation
+2025-08-01T02:41:00,11,laura79,outlook.exe,/change/really/wrong/over..txt,Normal operation
+2025-08-01T02:41:30,11,jerryjones,outlook.exe,/your/call/rather/minute..pdf,Normal operation
+2025-08-01T02:42:00,4624,quinnmichelle,powershell.exe,/movie/price/call/participant..pdf,Normal operation
+2025-08-01T02:42:30,4663,hansonchelsea,chrome.exe,/what/usually/central/pass..txt,Normal operation
+2025-08-01T02:43:00,4663,samanthamiller,chrome.exe,/many/chance/fall/ball..txt,Normal operation
+2025-08-01T02:43:30,11,price,outlook.exe,/agreement/series/first/hour..pdf,Normal operation
+2025-08-01T02:44:00,4663,kathy00,explorer.exe,/marriage/letter/yourself/laugh..docx,Normal operation
+2025-08-01T02:44:30,4634,ugallagher,explorer.exe,/want/college/during/your..pdf,Normal operation
+2025-08-01T02:45:00,4624,john49,explorer.exe,/against/sea/certainly/some..docx,Normal operation
+2025-08-01T02:45:30,4624,gentryjohn,chrome.exe,/design/research/small/strategy..pdf,Normal operation
+2025-08-01T02:46:00,11,andrew00,powershell.exe,/question/what/present/bring..txt,Normal operation
+2025-08-01T02:46:30,4624,elizabeth44,powershell.exe,/property/by/middle/within..docx,Normal operation
+2025-08-01T02:47:00,4663,stephanie56,explorer.exe,/station/green/save/play..docx,Normal operation
+2025-08-01T02:47:30,11,pdiaz,outlook.exe,/no/international/teacher/tend..pdf,Normal operation
+2025-08-01T02:48:00,4663,wrightpatrick,outlook.exe,/group/break/letter/fine..docx,Normal operation
+2025-08-01T02:48:30,11,youngemily,chrome.exe,/field/through/happen/radio..pdf,Normal operation
+2025-08-01T02:49:00,4634,whitekayla,explorer.exe,/standard/standard/them/friend..docx,Normal operation
+2025-08-01T02:49:30,4663,npeterson,outlook.exe,/mother/set/treatment/reach..docx,Normal operation
+2025-08-01T02:50:00,4663,stephen65,chrome.exe,/just/civil/share/work..docx,Normal operation
+2025-08-01T02:50:30,4634,nicholas40,explorer.exe,/send/hope/open/her..pdf,Normal operation
+2025-08-01T02:51:00,11,christopher75,explorer.exe,/might/reality/tree/garden..txt,Normal operation
+2025-08-01T02:51:30,11,caitlynrobinson,powershell.exe,/finish/worker/avoid/see..pdf,Normal operation
+2025-08-01T02:52:00,4634,castromanuel,explorer.exe,/probably/foot/artist/sign..txt,Normal operation
+2025-08-01T02:52:30,4624,russelldebra,chrome.exe,/memory/good/movement/maintain..txt,Normal operation
+2025-08-01T02:53:00,11,joanne31,explorer.exe,/democratic/stuff/cold/wish..docx,Normal operation
+2025-08-01T02:53:30,4663,patricia28,powershell.exe,/top/gun/policy/clear..txt,Normal operation
+2025-08-01T02:54:00,11,woodvictoria,outlook.exe,/total/vote/TV/our..docx,Normal operation
+2025-08-01T02:54:30,4624,harrisnicole,explorer.exe,/exist/market/one/drug..docx,Normal operation
+2025-08-01T02:55:00,4634,qbartlett,chrome.exe,/night/yes/cost/over..docx,Normal operation
+2025-08-01T02:55:30,4634,reedleah,outlook.exe,/action/message/game/shake..pdf,Normal operation
+2025-08-01T02:56:00,4634,jessica17,explorer.exe,/relate/alone/law/us..txt,Normal operation
+2025-08-01T02:56:30,4624,clarklatasha,chrome.exe,/check/book/thus/campaign..txt,Normal operation
+2025-08-01T02:57:00,4634,hooverjames,explorer.exe,/ready/party/affect/scene..docx,Normal operation
+2025-08-01T02:57:30,11,llogan,chrome.exe,/the/maybe/throughout/future..txt,Normal operation
+2025-08-01T02:58:00,4663,abrady,outlook.exe,/simply/rate/law/door..txt,Normal operation
+2025-08-01T02:58:30,4634,randall34,chrome.exe,/around/practice/assume/pass..docx,Normal operation
+2025-08-01T02:59:00,4634,poolenicole,outlook.exe,/suddenly/watch/upon/Congress..docx,Normal operation
+2025-08-01T02:59:30,11,thomas05,outlook.exe,/behind/interview/brother/water..pdf,Normal operation
+2025-08-01T03:00:00,4624,jeffreypacheco,powershell.exe,/those/research/sit/enough..txt,Normal operation
+2025-08-01T03:00:30,11,alejandrajimenez,chrome.exe,/capital/firm/hope/it..docx,Normal operation
+2025-08-01T03:01:00,11,christopherhayes,explorer.exe,/sign/high/under/miss..docx,Normal operation
+2025-08-01T03:01:30,11,wendy89,powershell.exe,/yet/buy/market/red..pdf,Normal operation
+2025-08-01T03:02:00,11,lopezjuan,powershell.exe,/father/we/analysis/firm..pdf,Normal operation
+2025-08-01T03:02:30,4624,sbrown,chrome.exe,/mind/environmental/billion/say..pdf,Normal operation
+2025-08-01T03:03:00,4663,robinhensley,powershell.exe,/attack/director/best/sometimes..pdf,Normal operation
+2025-08-01T03:03:30,4624,mwilliams,explorer.exe,/chance/fall/each/all..txt,Normal operation
+2025-08-01T03:04:00,11,moorejames,outlook.exe,/north/suffer/play/seem..txt,Normal operation
+2025-08-01T03:04:30,4634,ahawkins,explorer.exe,/audience/simply/alone/group..txt,Normal operation
+2025-08-01T03:05:00,4663,wesleyhill,chrome.exe,/animal/skin/word/hope..pdf,Normal operation
+2025-08-01T03:05:30,4663,bennettedward,explorer.exe,/cover/source/east/decade..txt,Normal operation
+2025-08-01T03:06:00,4634,wbrown,chrome.exe,/key/far/actually/response..pdf,Normal operation
+2025-08-01T03:06:30,11,phamandrea,outlook.exe,/phone/past/yet/maybe..pdf,Normal operation
+2025-08-01T03:07:00,4663,dustin81,powershell.exe,/standard/democratic/reach/head..docx,Normal operation
+2025-08-01T03:07:30,4663,trobinson,explorer.exe,/growth/goal/tend/include..txt,Normal operation
+2025-08-01T03:08:00,4634,xsmith,powershell.exe,/begin/prepare/new/no..pdf,Normal operation
+2025-08-01T03:08:30,4634,xwebb,outlook.exe,/through/him/however/environmental..txt,Normal operation
+2025-08-01T03:09:00,4663,williamryan,chrome.exe,/food/check/establish/benefit..txt,Normal operation
+2025-08-01T03:09:30,4663,sfletcher,chrome.exe,/two/leave/message/everyone..pdf,Normal operation
+2025-08-01T03:10:00,4663,kaitlinmendoza,explorer.exe,/company/Republican/whom/worker..docx,Normal operation
+2025-08-01T03:10:30,4624,leblancjenna,powershell.exe,/cover/tonight/benefit/difficult..pdf,Normal operation
+2025-08-01T03:11:00,4624,sharon12,outlook.exe,/TV/watch/my/their..txt,Normal operation
+2025-08-01T03:11:30,4624,benjaminnunez,explorer.exe,/wear/carry/so/hold..docx,Normal operation
+2025-08-01T03:12:00,4624,kirkashley,outlook.exe,/low/sometimes/government/air..txt,Normal operation
+2025-08-01T03:12:30,4624,leelynn,outlook.exe,/entire/also/get/either..txt,Normal operation
+2025-08-01T03:13:00,4624,williamskristin,chrome.exe,/place/go/exactly/suggest..txt,Normal operation
+2025-08-01T03:13:30,11,eford,explorer.exe,/senior/student/business/gun..pdf,Normal operation
+2025-08-01T03:14:00,11,heather68,explorer.exe,/represent/tonight/reduce/call..docx,Normal operation
+2025-08-01T03:14:30,4663,karenroman,outlook.exe,/director/night/bring/information..pdf,Normal operation
+2025-08-01T03:15:00,4663,pelliott,outlook.exe,/oil/smile/history/eye..docx,Normal operation
+2025-08-01T03:15:30,4634,igregory,explorer.exe,/society/southern/PM/everybody..txt,Normal operation
+2025-08-01T03:16:00,4663,mcguiremichelle,outlook.exe,/hour/large/the/both..docx,Normal operation
+2025-08-01T03:16:30,4634,christine03,chrome.exe,/institution/although/also/especially..docx,Normal operation
+2025-08-01T03:17:00,11,wendy66,chrome.exe,/tax/citizen/exactly/fish..txt,Normal operation
+2025-08-01T03:17:30,4624,jeffrey55,powershell.exe,/heart/charge/protect/look..docx,Normal operation
+2025-08-01T03:18:00,11,pvalentine,explorer.exe,/want/share/clearly/statement..docx,Normal operation
+2025-08-01T03:18:30,4624,mitchellrebecca,chrome.exe,/need/party/radio/I..pdf,Normal operation
+2025-08-01T03:19:00,11,sherrimcknight,explorer.exe,/cause/machine/cut/way..docx,Normal operation
+2025-08-01T03:19:30,4663,justinrivera,powershell.exe,/together/describe/less/together..pdf,Normal operation
+2025-08-01T00:00:00,4663,malicious_user,powershell.exe,/fear/hotel/even/none..txt,Registry modification persistence
+2025-08-01T00:05:00,1,attacker,powershell.exe,/wall/people/both/public..pdf,Mass file modification detected
+2025-08-01T00:10:00,13,attacker,powershell.exe,/century/source/play/about..xls,Shadow copy deletion attempt
+2025-08-01T00:15:00,13,attacker,cmd.exe,/suddenly/event/significant/between..txt,Shadow copy deletion attempt
+2025-08-01T00:20:00,13,malicious_user,powershell.exe,/major/especially/city/person..txt,Registry modification persistence
+2025-08-01T00:25:00,1,attacker,cipher.exe,/music/medical/next/mention..jpg,Mass file modification detected
+2025-08-01T00:30:00,4663,attacker,cmd.exe,/effect/begin/process/voice..jpg,Suspicious command executed
+2025-08-01T00:35:00,1,malicious_user,ransomware.exe,/green/growth/away/usually..docx,Shadow copy deletion attempt
+2025-08-01T00:40:00,13,attacker,cipher.exe,/or/professional/several/while..jpg,Registry modification persistence
+2025-08-01T00:45:00,1,malicious_user,powershell.exe,/capital/civil/accept/decision..jpg,Mass file modification detected
+2025-08-01T00:50:00,1,malicious_user,vssadmin.exe,/beat/than/protect/join..txt,Shadow copy deletion attempt
+2025-08-01T00:55:00,1,attacker,ransomware.exe,/social/open/poor/other..pdf,Encryption-like activity
+2025-08-01T01:00:00,4663,malicious_user,ransomware.exe,/north/wear/ok/field..pdf,Mass file modification detected
+2025-08-01T01:05:00,4663,attacker,powershell.exe,/source/example/father/war..txt,Shadow copy deletion attempt
+2025-08-01T01:10:00,1,malicious_user,ransomware.exe,/impact/bar/necessary/either..txt,Mass file modification detected
+2025-08-01T01:15:00,4663,attacker,powershell.exe,/speak/letter/official/society..txt,Mass file modification detected
+2025-08-01T01:20:00,13,malicious_user,ransomware.exe,/not/remember/theory/doctor..txt,Registry modification persistence
+2025-08-01T01:25:00,1,attacker,cipher.exe,/garden/responsibility/section/eight..xls,Suspicious command executed
+2025-08-01T01:30:00,4663,attacker,cipher.exe,/born/collection/ago/catch..xls,Registry modification persistence
+2025-08-01T01:35:00,1,attacker,vssadmin.exe,/during/color/certainly/involve..pdf,Encryption-like activity
+2025-08-01T01:40:00,4663,malicious_user,powershell.exe,/hand/authority/cultural/human..xls,Registry modification persistence
+2025-08-01T01:45:00,13,attacker,vssadmin.exe,/thank/physical/threat/action..pdf,Suspicious command executed
+2025-08-01T01:50:00,4663,malicious_user,vssadmin.exe,/concern/chance/off/structure..pdf,Shadow copy deletion attempt
+2025-08-01T01:55:00,4688,malicious_user,cmd.exe,/able/three/write/themselves..pdf,Encryption-like activity
+2025-08-01T02:00:00,4663,attacker,ransomware.exe,/according/concern/way/fact..txt,Suspicious command executed
+2025-08-01T02:05:00,1,malicious_user,ransomware.exe,/work/young/treatment/bag..xls,Registry modification persistence
+2025-08-01T02:10:00,4688,attacker,ransomware.exe,/above/stop/service/treatment..pdf,Shadow copy deletion attempt
+2025-08-01T02:15:00,4688,attacker,powershell.exe,/picture/among/total/happy..docx,Suspicious command executed
+2025-08-01T02:20:00,4688,malicious_user,ransomware.exe,/hit/fast/close/before..docx,Encryption-like activity
+2025-08-01T02:25:00,1,malicious_user,powershell.exe,/main/seem/wide/whole..pdf,Mass file modification detected
+2025-08-01T02:30:00,13,malicious_user,cmd.exe,/least/the/test/I..txt,Suspicious command executed
+2025-08-01T02:35:00,1,attacker,powershell.exe,/service/evening/four/important..xls,Suspicious command executed
+2025-08-01T02:40:00,4663,malicious_user,ransomware.exe,/at/yes/modern/grow..xls,Mass file modification detected
+2025-08-01T02:45:00,4663,malicious_user,ransomware.exe,/total/start/music/center..xls,Registry modification persistence
+2025-08-01T02:50:00,4688,malicious_user,vssadmin.exe,/modern/traditional/church/provide..txt,Shadow copy deletion attempt
+2025-08-01T02:55:00,1,attacker,cipher.exe,/no/bill/skill/oil..docx,Registry modification persistence
+2025-08-01T03:00:00,1,attacker,cmd.exe,/happen/recognize/include/detail..xls,Registry modification persistence
+2025-08-01T03:05:00,1,malicious_user,cmd.exe,/affect/professor/culture/have..txt,Mass file modification detected
+2025-08-01T03:10:00,4688,attacker,cipher.exe,/partner/himself/performance/decade..pdf,Mass file modification detected
+2025-08-01T03:15:00,13,malicious_user,vssadmin.exe,/keep/writer/billion/director..jpg,Encryption-like activity
+2025-08-01T03:20:00,1,attacker,powershell.exe,/benefit/plant/daughter/south..pdf,Encryption-like activity
+2025-08-01T03:25:00,1,malicious_user,ransomware.exe,/according/order/protect/will..txt,Mass file modification detected
+2025-08-01T03:30:00,4663,attacker,vssadmin.exe,/soldier/boy/face/season..txt,Registry modification persistence
+2025-08-01T03:35:00,4688,malicious_user,ransomware.exe,/person/point/issue/suffer..jpg,Registry modification persistence
+2025-08-01T03:40:00,13,malicious_user,ransomware.exe,/middle/marriage/future/rest..xls,Suspicious command executed
+2025-08-01T03:45:00,1,malicious_user,vssadmin.exe,/relate/take/human/instead..docx,Registry modification persistence
+2025-08-01T03:50:00,4663,attacker,cipher.exe,/court/too/reveal/letter..txt,Shadow copy deletion attempt
+2025-08-01T03:55:00,1,malicious_user,ransomware.exe,/research/people/pattern/someone..txt,Mass file modification detected
+2025-08-01T04:00:00,1,malicious_user,cmd.exe,/thousand/off/give/manage..jpg,Mass file modification detected
+2025-08-01T04:05:00,4688,attacker,ransomware.exe,/just/up/media/couple..xls,Mass file modification detected
+2025-08-01T04:10:00,4663,malicious_user,cmd.exe,/mouth/house/rather/according..docx,Encryption-like activity
+2025-08-01T04:15:00,4663,attacker,powershell.exe,/trip/if/book/market..docx,Encryption-like activity
+2025-08-01T04:20:00,13,malicious_user,powershell.exe,/society/information/first/every..jpg,Encryption-like activity
+2025-08-01T04:25:00,4688,attacker,vssadmin.exe,/big/when/relate/black..docx,Suspicious command executed
+2025-08-01T04:30:00,1,malicious_user,cipher.exe,/herself/race/some/per..pdf,Encryption-like activity
+2025-08-01T04:35:00,4688,attacker,cipher.exe,/federal/back/nature/range..xls,Registry modification persistence
+2025-08-01T04:40:00,4663,malicious_user,cmd.exe,/easy/system/role/need..jpg,Shadow copy deletion attempt
+2025-08-01T04:45:00,13,attacker,ransomware.exe,/memory/bring/say/company..pdf,Encryption-like activity
+2025-08-01T04:50:00,13,attacker,ransomware.exe,/project/ahead/option/themselves..xls,Shadow copy deletion attempt
+2025-08-01T04:55:00,13,attacker,cmd.exe,/always/pattern/act/training..txt,Suspicious command executed
+2025-08-01T05:00:00,1,attacker,cmd.exe,/moment/own/least/cover..pdf,Suspicious command executed
+2025-08-01T05:05:00,1,malicious_user,vssadmin.exe,/their/rise/worker/nor..txt,Registry modification persistence
+2025-08-01T05:10:00,4688,malicious_user,powershell.exe,/article/floor/either/hope..jpg,Suspicious command executed
+2025-08-01T05:15:00,4663,malicious_user,ransomware.exe,/reduce/movement/use/set..txt,Encryption-like activity
+2025-08-01T05:20:00,13,attacker,powershell.exe,/marriage/one/civil/shoulder..pdf,Suspicious command executed
+2025-08-01T05:25:00,4688,malicious_user,cipher.exe,/admit/reach/a/project..txt,Mass file modification detected
+2025-08-01T05:30:00,4663,malicious_user,cipher.exe,/language/well/stand/but..xls,Encryption-like activity
+2025-08-01T05:35:00,4663,malicious_user,vssadmin.exe,/address/voice/close/stay..pdf,Mass file modification detected
+2025-08-01T05:40:00,1,malicious_user,cipher.exe,/upon/quite/campaign/raise..jpg,Suspicious command executed
+2025-08-01T05:45:00,1,attacker,powershell.exe,/relate/surface/whether/sister..xls,Suspicious command executed
+2025-08-01T05:50:00,4663,malicious_user,cmd.exe,/appear/enough/down/early..jpg,Shadow copy deletion attempt
+2025-08-01T05:55:00,4688,attacker,vssadmin.exe,/say/past/party/these..jpg,Encryption-like activity
+2025-08-01T06:00:00,13,malicious_user,cmd.exe,/fly/charge/food/experience..docx,Registry modification persistence
+2025-08-01T06:05:00,4663,attacker,ransomware.exe,/another/study/team/situation..pdf,Suspicious command executed
+2025-08-01T06:10:00,13,attacker,vssadmin.exe,/today/feeling/especially/dark..pdf,Mass file modification detected
+2025-08-01T06:15:00,13,malicious_user,cipher.exe,/we/power/receive/new..pdf,Mass file modification detected
+2025-08-01T06:20:00,13,attacker,ransomware.exe,/avoid/glass/a/him..docx,Encryption-like activity
+2025-08-01T06:25:00,1,malicious_user,ransomware.exe,/challenge/put/attention/capital..txt,Mass file modification detected
+2025-08-01T06:30:00,4663,malicious_user,cipher.exe,/various/conference/couple/should..xls,Encryption-like activity
+2025-08-01T06:35:00,13,attacker,cipher.exe,/production/yes/tree/grow..xls,Mass file modification detected
+2025-08-01T06:40:00,1,malicious_user,ransomware.exe,/whose/economy/run/particularly..docx,Mass file modification detected
+2025-08-01T06:45:00,4663,malicious_user,cmd.exe,/keep/campaign/decide/whether..jpg,Shadow copy deletion attempt
+2025-08-01T06:50:00,4688,malicious_user,vssadmin.exe,/result/interesting/listen/early..txt,Shadow copy deletion attempt
+2025-08-01T06:55:00,1,attacker,ransomware.exe,/win/step/in/fight..pdf,Mass file modification detected
+2025-08-01T07:00:00,13,malicious_user,cmd.exe,/score/figure/rise/music..txt,Registry modification persistence
+2025-08-01T07:05:00,1,attacker,powershell.exe,/as/serve/forget/mean..docx,Encryption-like activity
+2025-08-01T07:10:00,4663,attacker,cmd.exe,/instead/person/social/tend..txt,Mass file modification detected
+2025-08-01T07:15:00,4663,malicious_user,powershell.exe,/image/until/baby/employee..xls,Encryption-like activity
+2025-08-01T07:20:00,4688,attacker,powershell.exe,/talk/however/determine/movie..docx,Mass file modification detected
+2025-08-01T07:25:00,4663,malicious_user,ransomware.exe,/space/who/market/none..txt,Suspicious command executed
+2025-08-01T07:30:00,13,attacker,powershell.exe,/name/represent/week/where..pdf,Mass file modification detected
+2025-08-01T07:35:00,4688,malicious_user,powershell.exe,/room/somebody/health/do..xls,Shadow copy deletion attempt
+2025-08-01T07:40:00,13,malicious_user,powershell.exe,/politics/financial/quite/cultural..pdf,Encryption-like activity
+2025-08-01T07:45:00,4688,attacker,vssadmin.exe,/subject/door/plant/really..xls,Mass file modification detected
+2025-08-01T07:50:00,13,malicious_user,cipher.exe,/kid/control/mouth/speak..jpg,Suspicious command executed
+2025-08-01T07:55:00,4663,attacker,cmd.exe,/pretty/later/natural/avoid..jpg,Mass file modification detected
+2025-08-01T08:00:00,1,attacker,powershell.exe,/six/air/whatever/believe..docx,Mass file modification detected
+2025-08-01T08:05:00,4688,attacker,vssadmin.exe,/how/free/TV/decide..txt,Shadow copy deletion attempt
+2025-08-01T08:10:00,4688,malicious_user,ransomware.exe,/his/administration/firm/yard..jpg,Shadow copy deletion attempt
+2025-08-01T08:15:00,13,attacker,cmd.exe,/lose/administration/six/girl..jpg,Suspicious command executed
