@@ -1,0 +1,19 @@
+title: Ransomware Mass File Encryption
+id: 2233bbcc-4455-ddee-6677-889900aabb22
+status: experimental
+description: Detects when a process rapidly modifies large numbers of files (encryption activity)
+author: Tirthraj Sisodiya
+logsource:
+  product: windows
+  category: file_event
+detection:
+  selection:
+    EventID: 4663
+  condition: selection
+fields:
+  - EventID
+  - ProcessName
+  - TargetFilename
+falsepositives:
+  - Backup software
+level: high
